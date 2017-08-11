@@ -1,0 +1,16 @@
+h1 a {
+	text-decoration: none;
+}
+.returnbutton {
+	position: relative;
+	bottom: -6px;
+}
+.subsubsub li:first-letter {
+    text-transform: uppercase;
+}
+.subsubsub li a {
+	cursor: pointer;
+}
+.wp-list-table:not(.table-post) {
+	display: none;
+}
